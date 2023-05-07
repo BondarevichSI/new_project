@@ -1,3 +1,3 @@
-def capital_letter(line):
-    return line.upper()
+def capital_letter(lines):
+    return lines.upper()
 
