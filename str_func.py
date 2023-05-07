@@ -1,3 +1,4 @@
-def capital_letter(lines):
-    return lines.upper()
+def capital_letter(string):
+    """dskjfsdkjfsdg"""
+    return string.upper()
 
