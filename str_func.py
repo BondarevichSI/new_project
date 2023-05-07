@@ -1,4 +1,5 @@
 def capital_letter(string):
-    """dskjfsdkjfsdg"""
     return string.upper()
 
+def capital_first(line):
+    return line.title()
